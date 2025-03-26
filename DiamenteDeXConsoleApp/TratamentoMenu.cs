@@ -16,7 +16,6 @@
             {
                 Console.Write("Comando Inválido, ");
                 numerostring = DigitarNumero();
-                Console.Clear();
             }
             return numero;
 
@@ -27,6 +26,7 @@
             string opcaocontinuar = Console.ReadLine()!.ToUpper();
             if (opcaocontinuar != "S")
                 return false;
+            Console.Clear();
             return true;
         }
     }
