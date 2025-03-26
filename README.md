@@ -1,4 +1,4 @@
-# Diamente De X
+# Diamante De X
 ![](https://i.imgur.com/e130K9t.gif)
 ## Introdução 
 Bem vindo a um programa, onde, quando você digita um número ímpar, é gerado um diamente de acordo com o número
